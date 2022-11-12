@@ -1,0 +1,7 @@
+#img-caption {
+max-width: fit-content;
+max-height: fit-content;
+display: flex;
+align-items: center;
+justify-content: center;
+}
